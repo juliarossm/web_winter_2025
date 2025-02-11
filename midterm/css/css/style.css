@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(252, 240, 252);
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid rgb(131, 126, 193);
+    padding: 50px;
+    background-color: rgb(215, 174, 215);
+    text-align: center;
+}
+
+.nav {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.copy {
+    font-size: 25px;
+    color: saddlebrown;
+    background-color: rgb(191, 152, 210);
+}
+
+.span2 {
+    font-family:'Times New Roman', Times, serif; 
+    color: blueviolet;
+}
+
+#page1, #page2 {
+    font-size: 20px;
+    color: rgb(112, 91, 112);
+  }
+  
+
+  

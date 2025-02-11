@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(249, 193, 249);
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color:aquamarine;
+}
+
+.nav {
+    list-style:none;
+    text-align:center;
+
+}
+.nav.li {
+    display:inline;
+    margin-right: 20px;
+}
+
+.copy{
+    font-size:25px;
+    color: saddlebrown;
+    background-color:rgb(191, 152, 210);
+}
+
+.span1 {
+    color:aqua;
+    font-size: xx-large;
+}
+
+.span2{
+    font-family: Impact,
+    'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    color:blue violet;
+}
